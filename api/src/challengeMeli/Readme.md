@@ -28,10 +28,10 @@ https://raw.githubusercontent.com/diegol-urquiza/ChallengeMeli/master/api/src/ch
 
 ##### Obteniendo el pronostico
 Como se vio antes, si quisieramos entonces obtener entonces el clima para el dia 100:
-http://localhost:8080/api-0.0.1-SNAPSHOT/clima?dia=100
+(http://localhost:8080/api-0.0.1-SNAPSHOT/clima?dia=100)
 
 y su respuesta seria:
-https://raw.githubusercontent.com/diegol-urquiza/ChallengeMeli/master/api/src/challengeMeli/dia100.png
+(https://raw.githubusercontent.com/diegol-urquiza/ChallengeMeli/master/api/src/challengeMeli/dia100.png)
 
 
 
